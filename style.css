@@ -73,3 +73,4 @@ a{color:var(--cobre-oscuro)}
   .grilla{grid-template-columns:repeat(2,1fr);gap:10px}
   .precio{font-size:18px}
 }
+.como .seguir{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:18px 0 6px;color:#fff;font-weight:600}
