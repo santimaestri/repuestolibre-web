@@ -1,0 +1,29 @@
+name: Actualizar productos
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 08:00 de Argentina
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bajar catálogo de n8n
+        env:
+          CLAVE: ${{ secrets.N8N_CLAVE }}
+        run: |
+          curl -sf --max-time 120 -H "x-clave: $CLAVE" \
+            https://reviu.app.n8n.cloud/webhook/web-repuestolibre-catalogo -o nuevo.json
+          n=$(jq '.productos | length' nuevo.json)
+          echo "productos: $n"
+          # Freno: si vienen menos de 50, no se pisa la web.
+          [ "$n" -ge 50 ] || { echo "muy pocos productos, no actualizo"; exit 1; }
+          jq . nuevo.json > productos.json && rm nuevo.json
+      - name: Guardar si cambió
+        run: |
+          git config user.name "repuestolibre-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add productos.json
+          git diff --cached --quiet || { git commit -m "productos: $(date -u +%F)"; git push; }
