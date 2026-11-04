@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-04",
   "productos": [
     {
       "id": "MLA3191223482",
@@ -147,7 +147,7 @@
     {
       "id": "MLA4085232840",
       "titulo": "Kit Gomitas Conductivas Para Joystick Ps5 V2 Bdm-020",
-      "precio": 2999,
+      "precio": 2799,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4085232840-kit-gomitas-conductivas-para-joystick-ps5-v2-bdm-020-_JM",
       "foto": "https://http2.mlstatic.com/D_774533-MLA119555611775_102026-O.jpg",
@@ -158,7 +158,7 @@
     {
       "id": "MLA4085233332",
       "titulo": "Kit Gomitas Conductivas Para Joystick Ps5 V3 Bdm-030",
-      "precio": 2999,
+      "precio": 2799,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4085233332-kit-gomitas-conductivas-para-joystick-ps5-v3-bdm-030-_JM",
       "foto": "https://http2.mlstatic.com/D_818453-MLA119555817399_102026-O.jpg",
@@ -169,7 +169,7 @@
     {
       "id": "MLA4085258774",
       "titulo": "Kit Gomitas Conductivas Para Joystick Xbox Series X S",
-      "precio": 2999,
+      "precio": 2699,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4085258774-kit-gomitas-conductivas-para-joystick-xbox-series-x-s-_JM",
       "foto": "https://http2.mlstatic.com/D_940141-MLA119555846865_102026-O.jpg",
@@ -213,7 +213,7 @@
     {
       "id": "MLA3309626842",
       "titulo": "Membrana Keypad Flex Botones Joystick Para Ps4 Todos Modelos 010 011 001",
-      "precio": 2746,
+      "precio": 2815,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3309626842-membrana-keypad-flex-botones-joystick-para-ps4-todos-modelos-010-011-001-_JM",
       "foto": "https://http2.mlstatic.com/D_659569-MLA111589388769_052026-O.jpg",
@@ -257,7 +257,7 @@
     {
       "id": "MLA3218665864",
       "titulo": "Repuesto Alps Stick Analogico Joystick Para Xbox One X S",
-      "precio": 2929,
+      "precio": 3006,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3218665864-repuesto-alps-stick-analogico-joystick-para-xbox-one-x-s-_JM",
       "foto": "https://http2.mlstatic.com/D_714716-MLA109807656716_042026-O.webp",
@@ -316,6 +316,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3714477856-b7000-tornillo-sellador-con-silicona-pack-x2-_JM",
       "foto": "https://http2.mlstatic.com/D_687588-MLA117363370934_102026-O.webp",
+      "grupo": "Herramientas e insumos",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA3923750946",
+      "titulo": "Destornillador Cruz 3 Mm Para Reparación De Electrónica",
+      "precio": 2255,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3923750946-destornillador-cruz-3-mm-para-reparacion-de-electronica-_JM",
+      "foto": "https://http2.mlstatic.com/D_766652-MLA119468345351_102026-O.jpg",
       "grupo": "Herramientas e insumos",
       "full": true,
       "envio_gratis": false
@@ -444,7 +455,7 @@
     {
       "id": "MLA2112054287",
       "titulo": "Flex Power Volumen Para iPhone 12 Mini Repuesto",
-      "precio": 6564,
+      "precio": 4599,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2112054287-flex-power-volumen-para-iphone-12-mini-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_691864-MLA118912639239_102026-O.webp",
@@ -455,7 +466,7 @@
     {
       "id": "MLA3976160152",
       "titulo": "Flex Power Volumen Para iPhone 12 Pro Max Repuesto",
-      "precio": 6564,
+      "precio": 4599,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3976160152-flex-power-volumen-para-iphone-12-pro-max-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_737053-MLA117318944038_102026-O.webp",
@@ -508,17 +519,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3923747170",
-      "titulo": "Flex Power Volumen Para iPhone 14 Pro Repuesto",
-      "precio": 14075,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3923747170-flex-power-volumen-para-iphone-14-pro-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_760405-MLA117802215343_092026-O.webp",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3967147586",
       "titulo": "Flex Power Volumen Para iPhone 14 Repuesto",
       "precio": 7257,
@@ -532,7 +532,7 @@
     {
       "id": "MLA2168200865",
       "titulo": "Flex Power Volumen Para iPhone 15 Pro Max Repuesto",
-      "precio": 10353,
+      "precio": 7299,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2168200865-flex-power-volumen-para-iphone-15-pro-max-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_928180-MLA119023280861_102026-O.jpg",
@@ -543,7 +543,7 @@
     {
       "id": "MLA2168012561",
       "titulo": "Flex Power Volumen Para iPhone 15 Pro Repuesto",
-      "precio": 10353,
+      "precio": 7299,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2168012561-flex-power-volumen-para-iphone-15-pro-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_758340-MLA117424027284_102026-O.jpg",
@@ -554,7 +554,7 @@
     {
       "id": "MLA4062261774",
       "titulo": "Flex Power Volumen Para iPhone 15 Repuesto",
-      "precio": 9141,
+      "precio": 6399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4062261774-flex-power-volumen-para-iphone-15-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_897533-MLA119197674563_102026-O.jpg",
@@ -565,7 +565,7 @@
     {
       "id": "MLA3994309008",
       "titulo": "Flex Power Volumen Para iPhone 6 Plus Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3994309008-flex-power-volumen-para-iphone-6-plus-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_779412-MLA118969694553_102026-O.jpg",
@@ -576,7 +576,7 @@
     {
       "id": "MLA3923759038",
       "titulo": "Flex Power Volumen Para iPhone 6 Repuesto",
-      "precio": 2863,
+      "precio": 2299,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3923759038-flex-power-volumen-para-iphone-6-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_642923-MLA118972289307_102026-O.webp",
@@ -598,7 +598,7 @@
     {
       "id": "MLA3923747128",
       "titulo": "Flex Power Volumen Para iPhone 6s Repuesto",
-      "precio": 4966,
+      "precio": 3799,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3923747128-flex-power-volumen-para-iphone-6s-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_952575-MLA117374893948_102026-O.webp",
@@ -675,7 +675,7 @@
     {
       "id": "MLA3976160596",
       "titulo": "Flex Power Volumen Para iPhone XS Max Repuesto",
-      "precio": 6330,
+      "precio": 4499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3976160596-flex-power-volumen-para-iphone-xs-max-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_768350-MLA117375183806_102026-O.webp",
@@ -686,7 +686,7 @@
     {
       "id": "MLA3923747164",
       "titulo": "Flex Power Volumen Para iPhone XS Repuesto",
-      "precio": 5427,
+      "precio": 3999,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3923747164-flex-power-volumen-para-iphone-xs-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_778274-MLA117373144002_102026-O.webp",
@@ -745,17 +745,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3065844098-modulo-para-iphone-14-incell-kd-hd-ic-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_991902-MLA108880772917_032026-O.webp",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": true
-    },
-    {
-      "id": "MLA3065845172",
-      "titulo": "Modulo Para iPhone 14 Pro Max Incell Kd Hd Ic Negro",
-      "precio": 60200,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3065845172-modulo-para-iphone-14-pro-max-incell-kd-hd-ic-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_631036-MLA108881220133_032026-O.webp",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": true
@@ -862,7 +851,7 @@
     {
       "id": "MLA3854545828",
       "titulo": "Placa De Carga Para iPhone 6 Plus A1522 Repuesto Pin",
-      "precio": 4776,
+      "precio": 4419,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3854545828-placa-de-carga-para-iphone-6-plus-a1522-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_980737-MLA117372997286_102026-O.jpg",
@@ -983,7 +972,7 @@
     {
       "id": "MLA2189796307",
       "titulo": "Flex Power Volumen E13 Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189796307-flex-power-volumen-e13-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_710348-MLA117717145084_102026-O.jpg",
@@ -994,7 +983,7 @@
     {
       "id": "MLA2189831779",
       "titulo": "Flex Power Volumen E20 Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189831779-flex-power-volumen-e20-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_826706-MLA119335973293_102026-O.jpg",
@@ -1003,20 +992,9 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA2189787347",
-      "titulo": "Flex Power Volumen E22 Y E22i Para Motorola Repuesto",
-      "precio": 3340,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2189787347-flex-power-volumen-e22-y-e22i-para-motorola-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_856443-MLA117716621792_102026-O.jpg",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA4079029938",
       "titulo": "Flex Power Volumen E6 Play Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079029938-flex-power-volumen-e6-play-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_974588-MLA119446816943_102026-O.webp",
@@ -1027,7 +1005,7 @@
     {
       "id": "MLA2189835141",
       "titulo": "Flex Power Volumen E6i Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189835141-flex-power-volumen-e6i-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_816016-MLA117716562314_102026-O.webp",
@@ -1038,7 +1016,7 @@
     {
       "id": "MLA2189833807",
       "titulo": "Flex Power Volumen E6s Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189833807-flex-power-volumen-e6s-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_720539-MLA117717379438_102026-O.webp",
@@ -1049,7 +1027,7 @@
     {
       "id": "MLA4079407714",
       "titulo": "Flex Power Volumen E7 Plus Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079407714-flex-power-volumen-e7-plus-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_658895-MLA117824295754_102026-O.jpg",
@@ -1071,7 +1049,7 @@
     {
       "id": "MLA4079116592",
       "titulo": "Flex Power Volumen G13 G23 Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2699,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079116592-flex-power-volumen-g13-g23-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_885650-MLA119446965455_102026-O.jpg",
@@ -1113,20 +1091,9 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA4079408852",
-      "titulo": "Flex Power Volumen G42 Para Motorola Repuesto",
-      "precio": 3340,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4079408852-flex-power-volumen-g42-para-motorola-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_662159-MLA119447937415_102026-O.webp",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA4066444254",
       "titulo": "Flex Power Volumen G52 Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2599,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4066444254-flex-power-volumen-g52-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_623461-MLA119262722411_102026-O.webp",
@@ -1137,7 +1104,7 @@
     {
       "id": "MLA4066496682",
       "titulo": "Flex Power Volumen G60 Y G60s Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2599,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4066496682-flex-power-volumen-g60-y-g60s-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_659094-MLA119262341213_102026-O.webp",
@@ -1148,7 +1115,7 @@
     {
       "id": "MLA2189784551",
       "titulo": "Flex Power Volumen G7 Play Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189784551-flex-power-volumen-g7-play-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_783436-MLA117716650822_102026-O.webp",
@@ -1170,7 +1137,7 @@
     {
       "id": "MLA2189783247",
       "titulo": "Flex Power Volumen G73 Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2599,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189783247-flex-power-volumen-g73-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_856400-MLA119336802941_102026-O.webp",
@@ -1181,7 +1148,7 @@
     {
       "id": "MLA4073356762",
       "titulo": "Flex Power Volumen G8 Play Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4073356762-flex-power-volumen-g8-play-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_944172-MLA117717145082_102026-O.jpg",
@@ -1192,7 +1159,7 @@
     {
       "id": "MLA2189795797",
       "titulo": "Flex Power Volumen G9 Plus Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189795797-flex-power-volumen-g9-plus-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_682848-MLA117716621708_102026-O.webp",
@@ -1203,7 +1170,7 @@
     {
       "id": "MLA2189795935",
       "titulo": "Flex Power Volumen G9 Power Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2189795935-flex-power-volumen-g9-power-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_637829-MLA117717379424_102026-O.webp",
@@ -1214,7 +1181,7 @@
     {
       "id": "MLA4079030228",
       "titulo": "Flex Power Volumen One Macro Para Motorola Repuesto",
-      "precio": 3340,
+      "precio": 2599,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079030228-flex-power-volumen-one-macro-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_669760-MLA119447112269_102026-O.jpg",
@@ -1368,7 +1335,7 @@
     {
       "id": "MLA3786545538",
       "titulo": "Placa De Carga One Macro Para Motorola Xt2016-1 Repuesto Pin",
-      "precio": 4135,
+      "precio": 3549,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786545538-placa-de-carga-one-macro-para-motorola-xt2016-1-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_843969-MLA117373202696_102026-O.jpg",
@@ -1533,7 +1500,7 @@
     {
       "id": "MLA2143369765",
       "titulo": "Flex Power Volumen A12 Para Samsung Repuesto",
-      "precio": 3073,
+      "precio": 2199,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2143369765-flex-power-volumen-a12-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_684519-MLA118971722227_102026-O.webp",
@@ -1544,7 +1511,7 @@
     {
       "id": "MLA4073241254",
       "titulo": "Flex Power Volumen A14 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4073241254-flex-power-volumen-a14-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_781860-MLA119336446439_102026-O.webp",
@@ -1555,7 +1522,7 @@
     {
       "id": "MLA2145317793",
       "titulo": "Flex Power Volumen A20 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2145317793-flex-power-volumen-a20-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_809254-MLA117374853460_102026-O.jpg",
@@ -1564,20 +1531,9 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA4013398690",
-      "titulo": "Flex Power Volumen A22 4g Para Samsung Repuesto",
-      "precio": 4999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4013398690-flex-power-volumen-a22-4g-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_712971-MLA117375183342_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA2167987169",
       "titulo": "Flex Power Volumen A23 Para Samsung Repuesto",
-      "precio": 26862,
+      "precio": 14999,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2167987169-flex-power-volumen-a23-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_756187-MLA117423791478_102026-O.jpg",
@@ -1588,7 +1544,7 @@
     {
       "id": "MLA2145292207",
       "titulo": "Flex Power Volumen A30 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2145292207-flex-power-volumen-a30-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_881208-MLA117374882894_102026-O.jpg",
@@ -1599,7 +1555,7 @@
     {
       "id": "MLA2123213561",
       "titulo": "Flex Power Volumen A31 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2123213561-flex-power-volumen-a31-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_700202-MLA117843471408_102026-O.webp",
@@ -1608,20 +1564,9 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA2153908535",
-      "titulo": "Flex Power Volumen A32 4g Para Samsung Repuesto",
-      "precio": 3340,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2153908535-flex-power-volumen-a32-4g-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_879353-MLA117375094716_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA4079395308",
       "titulo": "Flex Power Volumen A34 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079395308-flex-power-volumen-a34-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_732156-MLA119447702791_102026-O.jpg",
@@ -1654,7 +1599,7 @@
     {
       "id": "MLA4017150314",
       "titulo": "Flex Power Volumen A54 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4017150314-flex-power-volumen-a54-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_941582-MLA118971462907_102026-O.webp",
@@ -1665,7 +1610,7 @@
     {
       "id": "MLA2145279013",
       "titulo": "Flex Power Volumen A70 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2145279013-flex-power-volumen-a70-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_793980-MLA117043918816_102026-O.webp",
@@ -1676,7 +1621,7 @@
     {
       "id": "MLA4079408006",
       "titulo": "Flex Power Volumen M12 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2399,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079408006-flex-power-volumen-m12-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_972823-MLA119447643119_102026-O.webp",
@@ -1698,7 +1643,7 @@
     {
       "id": "MLA4079396234",
       "titulo": "Flex Power Volumen S20 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2699,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079396234-flex-power-volumen-s20-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_894753-MLA119447702975_102026-O.jpg",
@@ -1709,7 +1654,7 @@
     {
       "id": "MLA3981447514",
       "titulo": "Flex Power Volumen S21 Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 2699,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3981447514-flex-power-volumen-s21-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_830150-MLA118912757185_102026-O.jpg",
@@ -1742,7 +1687,7 @@
     {
       "id": "MLA4013398830",
       "titulo": "Flex Power Volumen S22 Plus Para Samsung Repuesto",
-      "precio": 3475,
+      "precio": 2899,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4013398830-flex-power-volumen-s22-plus-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_675020-MLA117374319546_102026-O.webp",
@@ -1819,13 +1764,13 @@
     {
       "id": "MLA3194542274",
       "titulo": "Modulo A70 A705 Incell Con Marco Pantalla Para Samsung Negro",
-      "precio": 38990,
+      "precio": 29199,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3194542274-modulo-a70-a705-incell-con-marco-pantalla-para-samsung-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_927881-MLA99160525402_112025-O.webp",
       "grupo": "Samsung",
       "full": true,
-      "envio_gratis": true
+      "envio_gratis": false
     },
     {
       "id": "MLA2105586572",
@@ -1863,7 +1808,7 @@
     {
       "id": "MLA4073085806",
       "titulo": "Modulo S23 Ultra S918 Pantalla Incell Para Samsung Con Marco Negro",
-      "precio": 87310,
+      "precio": 76199,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4073085806-modulo-s23-ultra-s918-pantalla-incell-para-samsung-con-marco-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_941180-MLA119336386841_102026-O.webp",
@@ -1918,7 +1863,7 @@
     {
       "id": "MLA2195096623",
       "titulo": "Flex Power Volumen Mi A1 Para Xiaomi Repuesto",
-      "precio": 3340,
+      "precio": 2499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2195096623-flex-power-volumen-mi-a1-para-xiaomi-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_673779-MLA117824267088_102026-O.jpg",
