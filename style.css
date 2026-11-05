@@ -74,3 +74,12 @@ a{color:var(--cobre-oscuro)}
   .precio{font-size:18px}
 }
 .como .seguir{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:18px 0 6px;color:#fff;font-weight:600}
+
+/* Página de producto (p/<id>.html) */
+.producto { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 32px; padding: 32px 0 48px; align-items: start; }
+.producto-foto { width: 100%; border-radius: 12px; background: #fff; }
+.producto-info h1 { font-size: 1.6rem; margin: 0 0 12px; }
+.producto-info .precio { font-size: 2rem; margin-bottom: 8px; }
+.producto-info p { line-height: 1.5; }
+.btn-grande { display: inline-block; font-size: 1.1rem; padding: 14px 24px; margin: 12px 0; }
+@media (max-width: 700px) { .producto { grid-template-columns: 1fr; gap: 16px; } }

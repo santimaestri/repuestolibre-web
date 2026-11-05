@@ -21,9 +21,11 @@ jobs:
           # Freno: si vienen menos de 50, no se pisa la web.
           [ "$n" -ge 50 ] || { echo "muy pocos productos, no actualizo"; exit 1; }
           jq . nuevo.json > productos.json && rm nuevo.json
+      - name: Armar páginas, feed de Google y sitemap
+        run: python3 armar_sitio.py
       - name: Guardar si cambió
         run: |
           git config user.name "repuestolibre-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add productos.json
+          git add -A productos.json p feed.xml sitemap.xml
           git diff --cached --quiet || { git commit -m "productos: $(date -u +%F)"; git push; }
