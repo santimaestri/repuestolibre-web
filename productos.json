@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-06",
   "productos": [
     {
       "id": "MLA3191223482",
@@ -19,6 +19,28 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1750557911-juego-de-hongos-palanca-negro-para-joystick-xbox-360-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_719189-MLA110474911217_042026-O.webp",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4119019870",
+      "titulo": "Juego De Hongos Palanca Para Joystick Xbox One Blanco",
+      "precio": 2999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4119019870-juego-de-hongos-palanca-para-joystick-xbox-one-blanco-_JM",
+      "foto": "https://http2.mlstatic.com/D_877554-MLA120067370199_102026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229370921",
+      "titulo": "Juego De Hongos Palanca Para Joystick Xbox One Negro",
+      "precio": 2999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229370921-juego-de-hongos-palanca-para-joystick-xbox-one-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_713316-MLA120067221695_102026-O.jpg",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -52,6 +74,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3196238068-juego-de-hongos-palanca-repuesto-negro-para-joystick-ps4-_JM",
       "foto": "https://http2.mlstatic.com/D_672410-MLA109596483056_042026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4119018726",
+      "titulo": "Juego De Hongos Palanca Repuesto Para Joystick Ps5 Blanco",
+      "precio": 3208,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4119018726-juego-de-hongos-palanca-repuesto-para-joystick-ps5-blanco-_JM",
+      "foto": "https://http2.mlstatic.com/D_625281-MLA120067754203_102026-O.webp",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -96,17 +129,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4084887352-kit-gatillos-repuesto-para-joystick-ps5-v3-bdm-030-_JM",
       "foto": "https://http2.mlstatic.com/D_664848-MLA120868453771_112026-O.jpg",
-      "grupo": "Consolas",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA1750627057",
-      "titulo": "Kit Gomitas Conductivas Para Joystick Ps4 01 011 030 040 050 001 011",
-      "precio": 4200,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1750627057-kit-gomitas-conductivas-para-joystick-ps4-01-011-030-040-050-001-011-_JM",
-      "foto": "https://http2.mlstatic.com/D_817563-MLA109596904002_042026-O.webp",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -211,6 +233,39 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA2229356615",
+      "titulo": "Membrana Flex Botones Repuesto Para Joystick Ps5 V1 Bdm-010",
+      "precio": 3459,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229356615-membrana-flex-botones-repuesto-para-joystick-ps5-v1-bdm-010-_JM",
+      "foto": "https://http2.mlstatic.com/D_882749-MLA119236072922_112026-O.webp",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229259997",
+      "titulo": "Membrana Flex Botones Repuesto Para Joystick Ps5 V2 Bdm-020",
+      "precio": 3459,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229259997-membrana-flex-botones-repuesto-para-joystick-ps5-v2-bdm-020-_JM",
+      "foto": "https://http2.mlstatic.com/D_727848-MLA120068104065_102026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229382975",
+      "titulo": "Membrana Flex Botones Repuesto Para Joystick Ps5 V3 Bdm-030",
+      "precio": 3459,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229382975-membrana-flex-botones-repuesto-para-joystick-ps5-v3-bdm-030-_JM",
+      "foto": "https://http2.mlstatic.com/D_743229-MLA120067221681_102026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA3309626842",
       "titulo": "Membrana Keypad Flex Botones Joystick Para Ps4 Todos Modelos 010 011 001",
       "precio": 2815,
@@ -233,6 +288,39 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA4094702026",
+      "titulo": "Pack X4 Sticks Analogicos Alps Compatible Joystick Ps4",
+      "precio": 14999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4094702026-pack-x4-sticks-analogicos-alps-compatible-joystick-ps4-_JM",
+      "foto": "https://http2.mlstatic.com/D_951094-MLA118085334512_102026-O.webp",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229384041",
+      "titulo": "Par De Resortes Gatillo Repuesto Para Joystick Ps5",
+      "precio": 2999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229384041-par-de-resortes-gatillo-repuesto-para-joystick-ps5-_JM",
+      "foto": "https://http2.mlstatic.com/D_874306-MLA120067547069_102026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4094690548",
+      "titulo": "Par De Sticks Analogicos Alps Compatible Joystick Ps4",
+      "precio": 8999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4094690548-par-de-sticks-analogicos-alps-compatible-joystick-ps4-_JM",
+      "foto": "https://http2.mlstatic.com/D_799134-MLA119719786707_102026-O.webp",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA3219029084",
       "titulo": "Par De Sticks Ginfull Tmr Joystick Para Ps5",
       "precio": 14999,
@@ -246,7 +334,7 @@
     {
       "id": "MLA1758478661",
       "titulo": "Placa Encendido Compatible Con Ps3 Super Slim + Flex 6 Pines",
-      "precio": 8787,
+      "precio": 8084,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1758478661-placa-encendido-compatible-con-ps3-super-slim-flex-6-pines-_JM",
       "foto": "https://http2.mlstatic.com/D_678400-MLA109809835670_042026-O.jpg",
@@ -310,6 +398,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA2229356257",
+      "titulo": "Stick Analógico Tmr Magnético Anti Drift Para Joystick Ps4",
+      "precio": 10379,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229356257-stick-analogico-tmr-magnetico-anti-drift-para-joystick-ps4-_JM",
+      "foto": "https://http2.mlstatic.com/D_861070-MLA118415626018_102026-O.webp",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA3714477856",
       "titulo": "B7000 Tornillo Sellador Con Silicona Pack X2",
       "precio": 2167,
@@ -334,10 +433,21 @@
     {
       "id": "MLA3983118166",
       "titulo": "Kit Antipinchaduras Destornillador Cruz 3mm + Tornillo Parche Tarugo Cubierta Moto Auto X10",
-      "precio": 8973.7,
+      "precio": 8427.45,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3983118166-kit-antipinchaduras-destornillador-cruz-3mm-tornillo-parche-tarugo-cubierta-moto-auto-x10-_JM",
       "foto": "https://http2.mlstatic.com/D_771699-MLA116559907544_092026-O.webp",
+      "grupo": "Herramientas e insumos",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2221008749",
+      "titulo": "Kit Destornillador + Tornillo Tarugo Cubierta 3 Medidas X15",
+      "precio": 12645,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2221008749-kit-destornillador-tornillo-tarugo-cubierta-3-medidas-x15-_JM",
+      "foto": "https://http2.mlstatic.com/D_601497-MLA118282253768_102026-O.jpg",
       "grupo": "Herramientas e insumos",
       "full": true,
       "envio_gratis": false
@@ -444,7 +554,7 @@
     {
       "id": "MLA1667994833",
       "titulo": "Tornillo Parche Tarugo Cubierta 1mm A 5mm Moto Auto X10",
-      "precio": 7191,
+      "precio": 6616,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1667994833-tornillo-parche-tarugo-cubierta-1mm-a-5mm-moto-auto-x10-_JM",
       "foto": "https://http2.mlstatic.com/D_740601-MLA106508282481_022026-O.jpg",
@@ -470,17 +580,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3967134926-flex-power-volumen-para-iphone-11-pro-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_960871-MLA117375243228_102026-O.webp",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3976160810",
-      "titulo": "Flex Power Volumen Para iPhone 11 Repuesto",
-      "precio": 5792,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3976160810-flex-power-volumen-para-iphone-11-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_742962-MLA116495818074_092026-O.jpg",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": false
@@ -948,6 +1047,105 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA2216723397",
+      "titulo": "Conector Fpc Display E13 Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2216723397-conector-fpc-display-e13-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_794501-MLA119864782959_102026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229258853",
+      "titulo": "Conector Fpc Display E7 Plus Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229258853-conector-fpc-display-e7-plus-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_671311-MLA118414980080_102026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4113347318",
+      "titulo": "Conector Fpc Display G200 Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4113347318-conector-fpc-display-g200-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_731953-MLA119996482897_102026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225389667",
+      "titulo": "Conector Fpc Display G22 E32 Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225389667-conector-fpc-display-g22-e32-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_852477-MLA119997217913_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225389891",
+      "titulo": "Conector Fpc Display G32 Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225389891-conector-fpc-display-g32-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_666885-MLA119996599721_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4113348216",
+      "titulo": "Conector Fpc Display G52 Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4113348216-conector-fpc-display-g52-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_982232-MLA118348248800_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225390483",
+      "titulo": "Conector Fpc Display G60 G60s Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225390483-conector-fpc-display-g60-g60s-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_804605-MLA119996304605_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229258467",
+      "titulo": "Conector Fpc Display G7 Play Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229258467-conector-fpc-display-g7-play-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_660432-MLA118414568350_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229380649",
+      "titulo": "Conector Fpc Display G73 Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229380649-conector-fpc-display-g73-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_809652-MLA118414980074_102026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA2032608441",
       "titulo": "Flex Main G60 G60s Para Motorola Repuesto",
       "precio": 3110,
@@ -1058,6 +1256,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA2195096911",
+      "titulo": "Flex Power Volumen E7 E7i E7 Power E7i Power Para Motorola",
+      "precio": 3340,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2195096911-flex-power-volumen-e7-e7i-e7-power-e7i-power-para-motorola-_JM",
+      "foto": "https://http2.mlstatic.com/D_853002-MLA119446758241_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA4079407714",
       "titulo": "Flex Power Volumen E7 Plus Para Motorola Repuesto",
       "precio": 2499,
@@ -1080,6 +1289,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA4066483238",
+      "titulo": "Flex Power Volumen G10 G20 G30 Para Motorola Repuesto",
+      "precio": 3340,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4066483238-flex-power-volumen-g10-g20-g30-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_863903-MLA119262868055_102026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA4079116592",
       "titulo": "Flex Power Volumen G13 G23 Para Motorola Repuesto",
       "precio": 2699,
@@ -1097,6 +1317,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2180173155-flex-power-volumen-g200-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_829708-MLA119198460305_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4066443948",
+      "titulo": "Flex Power Volumen G22 E32 Para Motorola Repuesto",
+      "precio": 3340,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4066443948-flex-power-volumen-g22-e32-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_742630-MLA117645787176_102026-O.jpg",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -1289,17 +1520,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3786545524",
-      "titulo": "Placa De Carga E6 Play Para Motorola Xt2029 Repuesto Pin",
-      "precio": 4899,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3786545524-placa-de-carga-e6-play-para-motorola-xt2029-repuesto-pin-_JM",
-      "foto": "https://http2.mlstatic.com/D_854889-MLA114775285910_082026-O.webp",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3785103800",
       "titulo": "Placa De Carga G7 Play Para Motorola Xt1952 Repuesto Pin",
       "precio": 2400,
@@ -1377,6 +1597,61 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA4108925858",
+      "titulo": "Adaptador Magnetico Usb C Macho A Usb C Hembra 240w 80gbps",
+      "precio": 8320,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4108925858-adaptador-magnetico-usb-c-macho-a-usb-c-hembra-240w-80gbps-_JM",
+      "foto": "https://http2.mlstatic.com/D_974730-MLA119928815303_102026-O.webp",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2221004211",
+      "titulo": "Cable Extension Usb C A Dc Hembra 2m Para Starlink Mini",
+      "precio": 7106,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2221004211-cable-extension-usb-c-a-dc-hembra-2m-para-starlink-mini-_JM",
+      "foto": "https://http2.mlstatic.com/D_733913-MLA118282500386_102026-O.jpg",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4108925824",
+      "titulo": "Cable Extension Usb C A Dc Hembra 50cm Para Starlink Mini",
+      "precio": 4620,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4108925824-cable-extension-usb-c-a-dc-hembra-50cm-para-starlink-mini-_JM",
+      "foto": "https://http2.mlstatic.com/D_721549-MLA118282004292_102026-O.jpg",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2221004199",
+      "titulo": "Cable Extension Usb C A Dc Hembra 5m Para Starlink Mini",
+      "precio": 12834,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2221004199-cable-extension-usb-c-a-dc-hembra-5m-para-starlink-mini-_JM",
+      "foto": "https://http2.mlstatic.com/D_917882-MLA119928613899_102026-O.jpg",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2221004179",
+      "titulo": "Cable Usb C A Dc 5.5x2.1 Para Starlink Mini 5m Waterproof",
+      "precio": 13211,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2221004179-cable-usb-c-a-dc-55x21-para-starlink-mini-5m-waterproof-_JM",
+      "foto": "https://http2.mlstatic.com/D_773733-MLA119928526139_102026-O.webp",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA1678684841",
       "titulo": "Modulo A52s 5g A528 Con Marco Pantalla Calidad Incell Hd Negro",
       "precio": 49303,
@@ -1397,6 +1672,281 @@
       "grupo": "Otros",
       "full": true,
       "envio_gratis": true
+    },
+    {
+      "id": "MLA4113346012",
+      "titulo": "Conector Fpc Display A02s Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4113346012-conector-fpc-display-a02s-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_779232-MLA118348189550_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225375225",
+      "titulo": "Conector Fpc Display A03 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225375225-conector-fpc-display-a03-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_919330-MLA118348071746_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225362445",
+      "titulo": "Conector Fpc Display A03s Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225362445-conector-fpc-display-a03s-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_739790-MLA119997010611_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4113346348",
+      "titulo": "Conector Fpc Display A04 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4113346348-conector-fpc-display-a04-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_647637-MLA119997306537_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220155757",
+      "titulo": "Conector Fpc Display A04s Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220155757-conector-fpc-display-a04s-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_951089-MLA119918659323_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225388533",
+      "titulo": "Conector Fpc Display A05 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225388533-conector-fpc-display-a05-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_639700-MLA119997217919_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4113346802",
+      "titulo": "Conector Fpc Display A10 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4113346802-conector-fpc-display-a10-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_931611-MLA118348278654_102026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4107615284",
+      "titulo": "Conector Fpc Display A12 Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4107615284-conector-fpc-display-a12-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_956403-MLA118273330220_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4107576732",
+      "titulo": "Conector Fpc Display A12 Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4107576732-conector-fpc-display-a12-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_995832-MLA119919927867_102026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220156247",
+      "titulo": "Conector Fpc Display A13 Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220156247-conector-fpc-display-a13-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_897039-MLA119918542337_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225375725",
+      "titulo": "Conector Fpc Display A14 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225375725-conector-fpc-display-a14-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_612719-MLA118348278642_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4107616182",
+      "titulo": "Conector Fpc Display A22 4g Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4107616182-conector-fpc-display-a22-4g-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_886625-MLA119919986559_102026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220156419",
+      "titulo": "Conector Fpc Display A23 Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220156419-conector-fpc-display-a23-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_760756-MLA119919368923_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225363245",
+      "titulo": "Conector Fpc Display A30 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225363245-conector-fpc-display-a30-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_854578-MLA119996423417_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4107614646",
+      "titulo": "Conector Fpc Display A30s Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4107614646-conector-fpc-display-a30s-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_751297-MLA119918659319_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220182493",
+      "titulo": "Conector Fpc Display A32 4g Para Samsung Repuesto",
+      "precio": 2717,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220182493-conector-fpc-display-a32-4g-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_799407-MLA119919309225_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220155049",
+      "titulo": "Conector Fpc Display A51 Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220155049-conector-fpc-display-a51-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_833093-MLA118274003138_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220181035",
+      "titulo": "Conector Fpc Display A52s Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220181035-conector-fpc-display-a52s-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_934697-MLA118273093246_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4107614476",
+      "titulo": "Conector Fpc Display A70 Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4107614476-conector-fpc-display-a70-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_770853-MLA119919279281_102026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4107576108",
+      "titulo": "Conector Fpc Display A71 Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4107576108-conector-fpc-display-a71-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_761630-MLA118273622918_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220154825",
+      "titulo": "Conector Fpc Display S21 Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220154825-conector-fpc-display-s21-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_970716-MLA118273093242_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220180353",
+      "titulo": "Conector Fpc Display S21 Ultra Para Samsung Repuesto",
+      "precio": 3180,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220180353-conector-fpc-display-s21-ultra-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_782729-MLA118273855554_102026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2220157449",
+      "titulo": "Conector Fpc Display S22 Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2220157449-conector-fpc-display-s22-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_784060-MLA119918984319_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225374885",
+      "titulo": "Conector Fpc Display S22 Plus Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225374885-conector-fpc-display-s22-plus-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_779343-MLA119996599683_102026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2225374987",
+      "titulo": "Conector Fpc Display S22 Ultra Para Samsung Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2225374987-conector-fpc-display-s22-ultra-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_757281-MLA118348278630_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
     },
     {
       "id": "MLA3854318920",
@@ -1482,6 +2032,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4013411904-flex-power-volumen-a02s-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_661416-MLA117374938706_102026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4017162960",
+      "titulo": "Flex Power Volumen A04 Para Samsung Repuesto",
+      "precio": 3340,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4017162960-flex-power-volumen-a04-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_846427-MLA117374647334_102026-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
@@ -1830,7 +2391,7 @@
     {
       "id": "MLA3366408290",
       "titulo": "Modulo A26 Incell Con Marco Para Samsung Pantalla Negro",
-      "precio": 49499,
+      "precio": 54449,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3366408290-modulo-a26-incell-con-marco-para-samsung-pantalla-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_866268-MLA116254211730_092026-O.webp",
@@ -1883,17 +2444,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3436818444",
-      "titulo": "Modulo Para Samsung A15 Incell Sin Marco Repuestolibre Negro",
-      "precio": 32999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3436818444-modulo-para-samsung-a15-incell-sin-marco-repuestolibre-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_919158-MLA117745143823_092026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA2189780083",
       "titulo": "Modulo S21 Ultra G998 Pantalla Incell Para Samsung Con Marco Negro",
       "precio": 78881,
@@ -1907,7 +2457,7 @@
     {
       "id": "MLA4073236430",
       "titulo": "Modulo S22 Ultra S908 Pantalla Incell Para Samsung Con Marco Negro",
-      "precio": 87310,
+      "precio": 96041,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4073236430-modulo-s22-ultra-s908-pantalla-incell-para-samsung-con-marco-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_806925-MLA117717379416_102026-O.webp",
