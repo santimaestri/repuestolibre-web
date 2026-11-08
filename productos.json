@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07",
+  "actualizado": "2026-11-08",
   "productos": [
     {
       "id": "MLA3191223482",
@@ -893,17 +893,6 @@
       "envio_gratis": true
     },
     {
-      "id": "MLA3065915760",
-      "titulo": "Modulo Para iPhone 14 Pro Incell Kd Hd Ic Negro",
-      "precio": 52623,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3065915760-modulo-para-iphone-14-pro-incell-kd-hd-ic-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_785643-MLA108102609154_032026-O.jpg",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": true
-    },
-    {
       "id": "MLA3564094174",
       "titulo": "Modulo Para iPhone 15 Incell Kd Hd Ic Negro",
       "precio": 47999,
@@ -1009,17 +998,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3854678492-placa-de-carga-para-iphone-xs-a1920-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_662941-MLA115265133194_082026-O.jpg",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3854546064",
-      "titulo": "Placa De Carga Para iPhone XS Max A1921 Repuesto Pin",
-      "precio": 6700,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3854546064-placa-de-carga-para-iphone-xs-max-a1921-repuesto-pin-_JM",
-      "foto": "https://http2.mlstatic.com/D_897277-MLA118970544115_102026-O.webp",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": false
