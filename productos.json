@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "productos": [
     {
       "id": "MLA3191223482",
@@ -101,6 +101,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA4085232528",
+      "titulo": "Juego De Hongos Palanca Repuesto Para Joystick Ps5 Negro",
+      "precio": 2999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4085232528-juego-de-hongos-palanca-repuesto-para-joystick-ps5-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_702011-MLA119554639121_102026-O.webp",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA1748847659",
       "titulo": "Juego Hongos Para Control Nintendo Gamecube Repuesto Palanca",
       "precio": 4049,
@@ -129,6 +140,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4085245040-kit-gatillos-repuesto-para-joystick-ps5-v2-bdm-020-_JM",
       "foto": "https://http2.mlstatic.com/D_990648-MLA119166909780_112026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4084887352",
+      "titulo": "Kit Gatillos Repuesto Para Joystick Ps5 V3 Bdm-030",
+      "precio": 4999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4084887352-kit-gatillos-repuesto-para-joystick-ps5-v3-bdm-030-_JM",
+      "foto": "https://http2.mlstatic.com/D_664848-MLA120868453771_112026-O.jpg",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -250,6 +272,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2229259997-membrana-flex-botones-repuesto-para-joystick-ps5-v2-bdm-020-_JM",
       "foto": "https://http2.mlstatic.com/D_727848-MLA120068104065_102026-O.jpg",
+      "grupo": "Consolas",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2229382975",
+      "titulo": "Membrana Flex Botones Repuesto Para Joystick Ps5 V3 Bdm-030",
+      "precio": 3459,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2229382975-membrana-flex-botones-repuesto-para-joystick-ps5-v3-bdm-030-_JM",
+      "foto": "https://http2.mlstatic.com/D_743229-MLA120067221681_102026-O.jpg",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -631,7 +664,7 @@
     {
       "id": "MLA2100007615",
       "titulo": "Flex Power Volumen Para iPhone 14 Pro Max Repuesto",
-      "precio": 15596,
+      "precio": 14348,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2100007615-flex-power-volumen-para-iphone-14-pro-max-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_782180-MLA118971763429_102026-O.webp",
@@ -893,17 +926,6 @@
       "envio_gratis": true
     },
     {
-      "id": "MLA3065845172",
-      "titulo": "Modulo Para iPhone 14 Pro Max Incell Kd Hd Ic Negro",
-      "precio": 60200,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3065845172-modulo-para-iphone-14-pro-max-incell-kd-hd-ic-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_631036-MLA108881220133_032026-O.webp",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": true
-    },
-    {
       "id": "MLA3564094174",
       "titulo": "Modulo Para iPhone 15 Incell Kd Hd Ic Negro",
       "precio": 47999,
@@ -950,7 +972,7 @@
     {
       "id": "MLA3854595326",
       "titulo": "Placa De Carga Para iPhone 13 Pro Max A2484 Repuesto Pin",
-      "precio": 9285,
+      "precio": 10173,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3854595326-placa-de-carga-para-iphone-13-pro-max-a2484-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_993671-MLA115265309556_082026-O.jpg",
@@ -1333,12 +1355,34 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA4066444056",
+      "titulo": "Flex Power Volumen G32 Para Motorola Repuesto",
+      "precio": 3340,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4066444056-flex-power-volumen-g32-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_828870-MLA119262868043_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA4079408852",
       "titulo": "Flex Power Volumen G42 Para Motorola Repuesto",
       "precio": 3340,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079408852-flex-power-volumen-g42-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_662159-MLA119447937415_102026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4066444254",
+      "titulo": "Flex Power Volumen G52 Para Motorola Repuesto",
+      "precio": 2599,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4066444254-flex-power-volumen-g52-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_623461-MLA119262722411_102026-O.webp",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -1476,17 +1520,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3576652120",
-      "titulo": "Modulo G52 G72 G82 G71s Edge30 Incell Negro",
-      "precio": 24299,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3576652120-modulo-g52-g72-g82-g71s-edge30-incell-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_693167-MLA114287057687_072026-O.jpg",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3577725958",
       "titulo": "Modulo G86 Y G86 Power Pantalla Incell Para Moto Motorola Negro",
       "precio": 47859,
@@ -1509,12 +1542,45 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA1831562645",
+      "titulo": "Placa De Carga E22 / E22i / E22s Para Moto Repuesto Pin",
+      "precio": 5328,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1831562645-placa-de-carga-e22-e22i-e22s-para-moto-repuesto-pin-_JM",
+      "foto": "https://http2.mlstatic.com/D_930719-MLA116662429374_092026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA1831576923",
       "titulo": "Placa De Carga E30 Y E40 Para Moto Repuesto Pin",
       "precio": 5534,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1831576923-placa-de-carga-e30-y-e40-para-moto-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_856795-MLA113050928773_062026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA3449583742",
+      "titulo": "Placa De Carga G20 Y G10 Xt2128 Para Moto Repuesto Pin",
+      "precio": 5099,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3449583742-placa-de-carga-g20-y-g10-xt2128-para-moto-repuesto-pin-_JM",
+      "foto": "https://http2.mlstatic.com/D_925573-MLA116675777224_092026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA3449583996",
+      "titulo": "Placa De Carga G22 Xt2231 Para Moto Repuesto Pin",
+      "precio": 4772,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3449583996-placa-de-carga-g22-xt2231-para-moto-repuesto-pin-_JM",
+      "foto": "https://http2.mlstatic.com/D_642216-MLA113050931109_062026-O.webp",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -1544,7 +1610,7 @@
     {
       "id": "MLA3786098524",
       "titulo": "Placa De Carga G8 Play Para Motorola Xt2015-2 Repuesto Pin",
-      "precio": 3740,
+      "precio": 3366,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786098524-placa-de-carga-g8-play-para-motorola-xt2015-2-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_952071-MLA116138855675_082026-O.jpg",
@@ -1608,34 +1674,23 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA2221004211",
-      "titulo": "Cable Extension Usb C A Dc Hembra 2m Para Starlink Mini",
-      "precio": 11199,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2221004211-cable-extension-usb-c-a-dc-hembra-2m-para-starlink-mini-_JM",
-      "foto": "https://http2.mlstatic.com/D_733913-MLA118282500386_102026-O.jpg",
-      "grupo": "Otros",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA4108925824",
-      "titulo": "Cable Extension Usb C A Dc Hembra 50cm Para Starlink Mini",
-      "precio": 7399,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4108925824-cable-extension-usb-c-a-dc-hembra-50cm-para-starlink-mini-_JM",
-      "foto": "https://http2.mlstatic.com/D_721549-MLA118282004292_102026-O.jpg",
-      "grupo": "Otros",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA2221004199",
       "titulo": "Cable Extension Usb C A Dc Hembra 5m Para Starlink Mini",
       "precio": 20499,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2221004199-cable-extension-usb-c-a-dc-hembra-5m-para-starlink-mini-_JM",
       "foto": "https://http2.mlstatic.com/D_917882-MLA119928613899_102026-O.jpg",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2221004179",
+      "titulo": "Cable Usb C A Dc 5.5x2.1 Para Starlink Mini 5m Waterproof",
+      "precio": 20999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2221004179-cable-usb-c-a-dc-55x21-para-starlink-mini-5m-waterproof-_JM",
+      "foto": "https://http2.mlstatic.com/D_773733-MLA119928526139_102026-O.webp",
       "grupo": "Otros",
       "full": true,
       "envio_gratis": false
@@ -1757,17 +1812,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4107576732-conector-fpc-display-a12-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_995832-MLA119919927867_102026-O.jpg",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA2220156247",
-      "titulo": "Conector Fpc Display A13 Para Samsung Repuesto",
-      "precio": 2717,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2220156247-conector-fpc-display-a13-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_897039-MLA119918542337_102026-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
@@ -2334,17 +2378,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA2797531824",
-      "titulo": "Modulo A16 Marco Incell Para Samsung Pantalla Display Negro",
-      "precio": 37718,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2797531824-modulo-a16-marco-incell-para-samsung-pantalla-display-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_846284-MLA110077192617_042026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": true
-    },
-    {
       "id": "MLA4073082334",
       "titulo": "Modulo A17 A176 Pantalla Oled Para Samsung Negro",
       "precio": 97654,
@@ -2439,6 +2472,39 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1831572841-placa-de-carga-a03s-para-samsung-a037-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_977961-MLA111925949406_062026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA1831573179",
+      "titulo": "Placa De Carga A04e Para Samsung A042 Repuesto Pin Plaqueta",
+      "precio": 6304,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1831573179-placa-de-carga-a04e-para-samsung-a042-repuesto-pin-plaqueta-_JM",
+      "foto": "https://http2.mlstatic.com/D_774375-MLA113050765797_062026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA1831585361",
+      "titulo": "Placa De Carga A05 Para Samsung A055 Repuesto Pin Plaqueta",
+      "precio": 6645,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1831585361-placa-de-carga-a05-para-samsung-a055-repuesto-pin-plaqueta-_JM",
+      "foto": "https://http2.mlstatic.com/D_677833-MLA113050256845_062026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA1831574523",
+      "titulo": "Placa De Carga A14 Para Samsung A146 Repuesto Pin Plaqueta",
+      "precio": 8639,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1831574523-placa-de-carga-a14-para-samsung-a146-repuesto-pin-plaqueta-_JM",
+      "foto": "https://http2.mlstatic.com/D_641036-MLA113051066649_062026-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
