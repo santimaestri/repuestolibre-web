@@ -83,3 +83,8 @@ a{color:var(--cobre-oscuro)}
 .producto-info p { line-height: 1.5; }
 .btn-grande { display: inline-block; font-size: 1.1rem; padding: 14px 24px; margin: 12px 0; }
 @media (max-width: 700px) { .producto { grid-template-columns: 1fr; gap: 16px; } }
+/* Página de política */
+.politica{max-width:760px;padding:32px 16px 48px}
+.politica h2{margin-top:24px;font-size:18px}
+.politica li{margin:4px 0}
+.pie a{color:#c9c0b8}

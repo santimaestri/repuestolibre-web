@@ -108,7 +108,7 @@ def pagina(p):
     <p><a href="../">← Ver todos los repuestos</a></p>
   </div>
 </main>
-<footer class="pie"><div class="wrap"><span>© Repuestolibre · Olivos, Buenos Aires</span></div></footer>
+<footer class="pie"><div class="wrap"><span>© Repuestolibre · Olivos, Buenos Aires</span><a href="../devoluciones.html">Cambios y devoluciones</a></div></footer>
 </body>
 </html>
 """
@@ -157,7 +157,7 @@ def main():
     )
     (RAIZ / "feed.xml").write_text(feed)
 
-    urls = [BASE] + [f"{BASE}p/{p['id']}.html" for p in prods]
+    urls = [BASE, f"{BASE}devoluciones.html"] + [f"{BASE}p/{p['id']}.html" for p in prods]
     sitemap = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
