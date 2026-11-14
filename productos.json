@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "productos": [
     {
       "id": "MLA3191223482",
@@ -228,17 +228,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1992398029-lb-rb-bumper-para-joystick-1914-xbox-series-x-y-s-blanco-_JM",
       "foto": "https://http2.mlstatic.com/D_646177-MLA118970747291_102026-O.jpg",
-      "grupo": "Consolas",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA2229356615",
-      "titulo": "Membrana Flex Botones Repuesto Para Joystick Ps5 V1 Bdm-010",
-      "precio": 3459,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2229356615-membrana-flex-botones-repuesto-para-joystick-ps5-v1-bdm-010-_JM",
-      "foto": "https://http2.mlstatic.com/D_882749-MLA119236072922_112026-O.webp",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -1443,17 +1432,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA1802224371",
-      "titulo": "Modulo Edge 40 Edge 40 Neo Calidad Incell Para Moto Negro",
-      "precio": 54053,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1802224371-modulo-edge-40-edge-40-neo-calidad-incell-para-moto-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_790126-MLA112194506623_052026-O.webp",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": true
-    },
-    {
       "id": "MLA1802276015",
       "titulo": "Modulo Edge 50 Pro Incell Xt2403 Edge 50 Pantalla Para Moto Negro",
       "precio": 55999,
@@ -1504,17 +1482,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1504552315-modulo-g42-pantalla-incell-para-moto-motorola-xt2233-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_633079-MLA121451773891_112026-O.jpg",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3576652120",
-      "titulo": "Modulo G52 G72 G82 G71s Edge30 Incell Negro",
-      "precio": 26327,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3576652120-modulo-g52-g72-g82-g71s-edge30-incell-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_693167-MLA114287057687_072026-O.jpg",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -1982,17 +1949,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3854243752",
-      "titulo": "Flex Main S21 Ultra Para Samsung Repuesto",
-      "precio": 3328,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3854243752-flex-main-s21-ultra-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_832884-MLA117374347718_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3854243762",
       "titulo": "Flex Main S22 Para Samsung Repuesto",
       "precio": 3328,
@@ -2010,17 +1966,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3854319100-flex-main-s22-plus-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_827424-MLA116664600485_082026-O.jpg",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3854319112",
-      "titulo": "Flex Main S22 Ultra Para Samsung Repuesto",
-      "precio": 3642,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3854319112-flex-main-s22-ultra-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_796972-MLA118971079751_102026-O.jpg",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
@@ -2411,17 +2356,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA1730858809",
-      "titulo": "Módulo A32 4g A325 Pantalla Para Samsung Incell Con Marco - Negro",
-      "precio": 32450,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1730858809-modulo-a32-4g-a325-pantalla-para-samsung-incell-con-marco-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_875741-MLA110079575837_042026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3564088944",
       "titulo": "Modulo A36 5g A366 Incell Con Marco Para Samsung Negro",
       "precio": 42646,
@@ -2442,17 +2376,6 @@
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": true
-    },
-    {
-      "id": "MLA3194542274",
-      "titulo": "Modulo A70 A705 Incell Con Marco Pantalla Para Samsung Negro",
-      "precio": 29971,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3194542274-modulo-a70-a705-incell-con-marco-pantalla-para-samsung-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_927881-MLA99160525402_112025-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
     },
     {
       "id": "MLA2105586572",
@@ -2538,17 +2461,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-1831561843-placa-de-carga-a21s-para-samsung-a217-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_638306-MLA113049054495_062026-O.jpg",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA1831587999",
-      "titulo": "Placa De Carga A51 Para Samsung A515 Repuesto Pin Plaqueta",
-      "precio": 7082,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1831587999-placa-de-carga-a51-para-samsung-a515-repuesto-pin-plaqueta-_JM",
-      "foto": "https://http2.mlstatic.com/D_814752-MLA113050029537_062026-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
