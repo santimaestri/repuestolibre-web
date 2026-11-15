@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "productos": [
     {
       "id": "MLA3191223482",
@@ -85,17 +85,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4119018726-juego-de-hongos-palanca-repuesto-para-joystick-ps5-blanco-_JM",
       "foto": "https://http2.mlstatic.com/D_777343-MLA121452073151_112026-O.jpg",
-      "grupo": "Consolas",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA4085232528",
-      "titulo": "Juego De Hongos Palanca Repuesto Para Joystick Ps5 Negro",
-      "precio": 2999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4085232528-juego-de-hongos-palanca-repuesto-para-joystick-ps5-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_702011-MLA119554639121_102026-O.webp",
       "grupo": "Consolas",
       "full": true,
       "envio_gratis": false
@@ -470,17 +459,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2097278190-pegamento-b7000-15ml-para-modulos-transparente-_JM",
       "foto": "https://http2.mlstatic.com/D_981891-MLA93450648195_092025-O.jpg",
-      "grupo": "Herramientas e insumos",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA4035523194",
-      "titulo": "Pegamento B7000 3ml Pack X2 Unidades Para Modulos Celular Transparente",
-      "precio": 3999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4035523194-pegamento-b7000-3ml-pack-x2-unidades-para-modulos-celular-transparente-_JM",
-      "foto": "https://http2.mlstatic.com/D_749410-MLA117261100052_102026-O.jpg",
       "grupo": "Herramientas e insumos",
       "full": true,
       "envio_gratis": false
@@ -1317,17 +1295,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4079408698-flex-power-volumen-g31-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_745210-MLA119447141927_102026-O.webp",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA4066444056",
-      "titulo": "Flex Power Volumen G32 Para Motorola Repuesto",
-      "precio": 3340,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4066444056-flex-power-volumen-g32-para-motorola-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_828870-MLA119262868043_102026-O.webp",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -2340,17 +2307,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3131854302-modulo-a30s-incell-con-marco-negro-para-samsung-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_814556-MLA118703357600_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA1504226807",
-      "titulo": "Modulo A31 Para Samsung Incell Pantalla Con Marco Negro",
-      "precio": 31349,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1504226807-modulo-a31-para-samsung-incell-pantalla-con-marco-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_989027-MLA91955864041_092025-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
