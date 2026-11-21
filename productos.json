@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-21",
   "productos": [
     {
       "id": "MLA4183323960",
@@ -343,17 +343,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA1785568207",
-      "titulo": "Membrana Keypad Flex Botones Joystick Para Ps4 Todos Modelos 050",
-      "precio": 4999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1785568207-membrana-keypad-flex-botones-joystick-para-ps4-todos-modelos-050-_JM",
-      "foto": "https://http2.mlstatic.com/D_912771-MLA111587868999_052026-O.jpg",
-      "grupo": "Consolas",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA2229384041",
       "titulo": "Par De Resortes Gatillo Repuesto Para Joystick Ps5",
       "precio": 2999,
@@ -510,7 +499,7 @@
     {
       "id": "MLA2097278190",
       "titulo": "Pegamento B7000 15ml Para Modulos Transparente",
-      "precio": 3099,
+      "precio": 3229,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2097278190-pegamento-b7000-15ml-para-modulos-transparente-_JM",
       "foto": "https://http2.mlstatic.com/D_981891-MLA93450648195_092025-O.jpg",
@@ -1166,17 +1155,6 @@
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": true
-    },
-    {
-      "id": "MLA2799703916",
-      "titulo": "Modulo Para iPhone 12 Display Calidad Incell Ic Negro",
-      "precio": 32999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2799703916-modulo-para-iphone-12-display-calidad-incell-ic-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_690196-MLA104904919010_012026-O.webp",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": false
     },
     {
       "id": "MLA3564244994",
@@ -1905,17 +1883,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA1504552315",
-      "titulo": "Modulo G42 Pantalla Incell Para Moto Motorola Xt2233 Negro",
-      "precio": 31699,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1504552315-modulo-g42-pantalla-incell-para-moto-motorola-xt2233-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_633079-MLA121451773891_112026-O.jpg",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3577725958",
       "titulo": "Modulo G86 Y G86 Power Pantalla Incell Para Moto Motorola Negro",
       "precio": 48019,
@@ -2389,17 +2356,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA2220155049",
-      "titulo": "Conector Fpc Display A51 Para Samsung Repuesto",
-      "precio": 3180,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-2220155049-conector-fpc-display-a51-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_833093-MLA118274003138_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA2220181035",
       "titulo": "Conector Fpc Display A52s Para Samsung Repuesto",
       "precio": 3180,
@@ -2703,17 +2659,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4017162960-flex-power-volumen-a04-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_846427-MLA117374647334_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA4062261820",
-      "titulo": "Flex Power Volumen A04e Para Samsung Repuesto",
-      "precio": 3340,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-4062261820-flex-power-volumen-a04e-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_786663-MLA117586545420_102026-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
@@ -3082,17 +3027,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA1504226807",
-      "titulo": "Modulo A31 Para Samsung Incell Pantalla Con Marco Negro",
-      "precio": 32999,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1504226807-modulo-a31-para-samsung-incell-pantalla-con-marco-negro-_JM",
-      "foto": "https://http2.mlstatic.com/D_989027-MLA91955864041_092025-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA1730858809",
       "titulo": "Módulo A32 4g A325 Pantalla Para Samsung Incell Con Marco - Negro",
       "precio": 32450,
@@ -3137,34 +3071,12 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3786532584",
-      "titulo": "Placa De Carga A02s Para Samsung A025 Repuesto Pin Plaqueta",
-      "precio": 6091,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3786532584-placa-de-carga-a02s-para-samsung-a025-repuesto-pin-plaqueta-_JM",
-      "foto": "https://http2.mlstatic.com/D_888756-MLA114774733446_082026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3786570716",
       "titulo": "Placa De Carga A03 Core Para Samsung A032 Repuesto Pin",
       "precio": 6009,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786570716-placa-de-carga-a03-core-para-samsung-a032-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_649303-MLA114774878530_082026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA1831546269",
-      "titulo": "Placa De Carga A04 Para Samsung A045f Repuesto Pin Plaqueta",
-      "precio": 5702,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1831546269-placa-de-carga-a04-para-samsung-a045f-repuesto-pin-plaqueta-_JM",
-      "foto": "https://http2.mlstatic.com/D_712455-MLA111924701194_062026-O.jpg",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
@@ -3198,17 +3110,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786532684-placa-de-carga-a10-para-samsung-a105-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_948260-MLA114774879808_082026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3786545390",
-      "titulo": "Placa De Carga A10s Para Samsung A107 Repuesto Pin Plaqueta",
-      "precio": 4819,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3786545390-placa-de-carga-a10s-para-samsung-a107-repuesto-pin-plaqueta-_JM",
-      "foto": "https://http2.mlstatic.com/D_990717-MLA116144851083_082026-O.jpg",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
