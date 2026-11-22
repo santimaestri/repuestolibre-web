@@ -88,3 +88,70 @@ a{color:var(--cobre-oscuro)}
 .politica h2{margin-top:24px;font-size:18px}
 .politica li{margin:4px 0}
 .pie a{color:#c9c0b8}
+
+/* ===== Rediseño B2B ===== */
+html{scroll-behavior:smooth}
+section[id]{scroll-margin-top:64px}
+.menu{display:flex;gap:22px;margin-left:auto;margin-right:8px}
+.menu a{color:#d8d2cc;text-decoration:none;font-size:15px;font-weight:600}
+.menu a:hover{color:var(--cobre-claro)}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;font-weight:700;color:var(--cobre-claro);margin:0 0 12px}
+.kicker.oscuro{color:var(--cobre-oscuro)}
+.hero-b2b{padding:84px 0 72px}
+.hero-b2b h1{font-size:clamp(32px,5vw,58px);max-width:900px;letter-spacing:-1px}
+.hero-b2b p{font-size:18px;max-width:720px}
+.hero .en{font-size:15px;color:#a69d95;font-style:italic;margin-top:-6px}
+.ctas{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+.btn-borde{border:1px solid rgba(244,174,121,.55);color:var(--cobre-claro);background:transparent}
+.btn-borde:hover{background:rgba(233,137,74,.1)}
+.cifras{background:var(--negro-2);border-top:1px solid #2a2622;border-bottom:1px solid #2a2622}
+.cifras-in{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;padding:26px 18px}
+.cifras-in>div{display:flex;flex-direction:column;gap:2px}
+.cifras strong{font-size:28px;background:var(--degrade);-webkit-background-clip:text;background-clip:text;color:transparent}
+.cifras span{color:#a69d95;font-size:14px}
+.bloque{padding:72px 0}
+.bloque h2,.tienda h2{font-size:clamp(24px,3vw,34px);margin:0 0 28px;letter-spacing:-.4px;max-width:760px;line-height:1.15}
+.bloque-oscuro{background:var(--negro);color:#e9e2db}
+.bloque-oscuro h2{color:#fff}
+.servicios{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.servicios article{background:#fff;border:1px solid var(--borde);border-radius:14px;padding:22px 22px 18px;border-top:3px solid var(--cobre)}
+.servicios h3{margin:0 0 8px;font-size:18px}
+.servicios p{margin:0;color:var(--gris)}
+.pasos{list-style:none;counter-reset:p;padding:0;margin:0;display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.pasos li{counter-increment:p;border-top:1px solid #3a342e;padding-top:16px;display:flex;flex-direction:column;gap:6px}
+.pasos li::before{content:"0" counter(p);font-weight:800;font-size:14px;color:var(--cobre)}
+.pasos strong{font-size:20px;color:#fff}
+.pasos span{color:#b9b0a8}
+.nosotros{display:grid;grid-template-columns:1fr 1.1fr;gap:48px;align-items:start}
+.nosotros p{font-size:17px}
+.trayecto{list-style:none;margin:0;padding:0 0 0 22px;border-left:2px solid var(--cobre-claro)}
+.trayecto li{position:relative;padding:0 0 26px}
+.trayecto li::before{content:"";position:absolute;left:-30px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--degrade)}
+.trayecto .anio{font-size:13px;font-weight:700;color:var(--cobre-oscuro)}
+.trayecto h3{margin:2px 0 6px;font-size:18px}
+.trayecto p{margin:0;color:var(--gris);font-size:15px}
+.tienda{padding:72px 0 20px;border-top:1px solid var(--borde)}
+.tienda .sub{color:var(--gris);max-width:720px;margin:-14px 0 8px}
+.seguir-tienda{display:flex;gap:12px;align-items:center;flex-wrap:wrap;color:var(--gris);font-size:14px;padding-bottom:40px}
+.contacto{text-align:center}
+.contacto h2,.contacto p{margin-left:auto;margin-right:auto}
+.contacto p{max-width:620px}
+.contacto .en{color:#a69d95;font-style:italic}
+.contacto .nota{color:#8f867e;font-size:14px;margin-top:22px}
+.contacto .nota a{color:var(--cobre-claro)}
+@media (max-width:900px){
+  .menu{display:none}
+  .cifras-in{grid-template-columns:repeat(3,1fr)}
+  .servicios{grid-template-columns:1fr 1fr}
+  .pasos{grid-template-columns:1fr 1fr}
+  .nosotros{grid-template-columns:1fr;gap:28px}
+}
+@media (max-width:560px){
+  .cifras-in{grid-template-columns:1fr 1fr}
+  .servicios,.pasos{grid-template-columns:1fr}
+  .hero-b2b{padding:56px 0 48px}
+}
+.mas{text-align:center;margin:0 0 24px}
+.btn-borde-claro{background:#fff;border:1px solid var(--cobre);color:var(--cobre-oscuro);cursor:pointer;font-size:15px;padding:11px 22px}
+.btn-borde-claro:hover{background:#fff4ec}
+.ctas .btn-grande{margin:0}

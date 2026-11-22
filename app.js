@@ -17,6 +17,8 @@
 
   const grupos = ORDEN.filter((g) => prods.some((p) => p.grupo === g));
   let grupo = 'Todos';
+  const PASO = 15;
+  let limite = PASO;
   $('grupos').innerHTML = ['Todos', ...grupos]
     .map((g) => `<button class="chip" role="tab" data-g="${esc(g)}" aria-selected="${g === 'Todos'}">${esc(g)}</button>`)
     .join('');
@@ -24,6 +26,7 @@
     const b = e.target.closest('.chip');
     if (!b) return;
     grupo = b.dataset.g;
+    limite = PASO;
     document.querySelectorAll('.chip').forEach((c) => c.setAttribute('aria-selected', c === b));
     pintar();
   });
@@ -45,10 +48,12 @@
       (p) => (grupo === 'Todos' || p.grupo === grupo) && palabras.every((w) => p._q.includes(w))
     );
     lista.sort((a, b) => ORDEN.indexOf(a.grupo) - ORDEN.indexOf(b.grupo) || a.titulo.localeCompare(b.titulo, 'es'));
-    $('grilla').innerHTML = lista.map(card).join('');
+    $('grilla').innerHTML = lista.slice(0, limite).map(card).join('');
+    $('ver-mas').hidden = lista.length <= limite;
     $('cuenta').textContent = `${lista.length} producto${lista.length === 1 ? '' : 's'}`;
     $('vacio').hidden = lista.length > 0;
   }
-  $('buscar').addEventListener('input', pintar);
+  $('buscar').addEventListener('input', () => { limite = PASO; pintar(); });
+  $('ver-mas').addEventListener('click', () => { limite += PASO * 2; pintar(); });
   pintar();
 })();
