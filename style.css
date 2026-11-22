@@ -105,7 +105,7 @@ section[id]{scroll-margin-top:64px}
 .btn-borde{border:1px solid rgba(244,174,121,.55);color:var(--cobre-claro);background:transparent}
 .btn-borde:hover{background:rgba(233,137,74,.1)}
 .cifras{background:var(--negro-2);border-top:1px solid #2a2622;border-bottom:1px solid #2a2622}
-.cifras-in{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;padding:26px 18px}
+.cifras-in{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding:30px 18px}
 .cifras-in>div{display:flex;flex-direction:column;gap:2px}
 .cifras strong{font-size:28px;background:var(--degrade);-webkit-background-clip:text;background-clip:text;color:transparent}
 .cifras span{color:#a69d95;font-size:14px}
