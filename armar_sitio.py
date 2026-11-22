@@ -108,7 +108,7 @@ def pagina(p):
     <p><a href="../">← Ver todos los repuestos</a></p>
   </div>
 </main>
-<footer class="pie"><div class="wrap"><span>© Repuestolibre · Olivos, Buenos Aires</span><a href="../devoluciones.html">Cambios y devoluciones</a></div></footer>
+<footer class="pie"><div class="wrap"><span>© Repuestolibre · Capital Federal, Argentina</span><a href="../devoluciones.html">Cambios y devoluciones</a></div></footer>
 </body>
 </html>
 """
