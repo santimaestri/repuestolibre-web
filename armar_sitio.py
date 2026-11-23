@@ -85,7 +85,7 @@ def pagina(p):
 <meta property="og:image" content="{html.escape(p['foto'])}">
 <meta property="og:type" content="product">
 <link rel="icon" href="../logo.svg" type="image/svg+xml">
-<meta name="theme-color" content="#0d0d0d">
+<meta name="theme-color" content="#0F0F43">
 <link rel="stylesheet" href="../style.css">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>

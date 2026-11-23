@@ -1,56 +1,56 @@
-/* Colores del logo RL: cobre en degradé sobre negro */
+/* Colores de marca RL (los de las fichas de Mercado Libre): azul marino + cian */
 :root{
-  --negro:#0d0d0d;--negro-2:#171513;
-  --cobre-claro:#F4AE79;--cobre:#E9894A;--cobre-medio:#CE6831;--cobre-oscuro:#993E19;
-  --degrade:linear-gradient(120deg,#F4AE79 0%,#E9894A 50%,#993E19 100%);
-  --txt:#1a1714;--gris:#6e665f;--borde:#ebe5df;--fondo:#f7f4f1
+  --marino:#0F0F43;--marino-2:#14144F;
+  --cian-claro:#7FE3EC;--cian:#2DD4DE;--cian-medio:#1FB5C2;--cian-oscuro:#0E7C88;
+  --degrade:linear-gradient(120deg,#7FE3EC 0%,#2DD4DE 50%,#1FB5C2 100%);
+  --txt:#16163A;--gris:#5A5E73;--borde:#E1E5EE;--fondo:#F4F6FA
 }
 *{box-sizing:border-box}
 body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:var(--txt);background:var(--fondo);line-height:1.45}
-a{color:var(--cobre-oscuro)}
+a{color:var(--cian-oscuro)}
 .wrap{max-width:1180px;margin:0 auto;padding:0 18px}
 
 /* Encabezado */
-.top{background:var(--negro);border-bottom:1px solid #2a2622;position:sticky;top:0;z-index:5}
+.top{background:var(--marino);border-bottom:1px solid #22225A;position:sticky;top:0;z-index:5}
 .top-in{display:flex;align-items:center;justify-content:space-between;gap:12px;height:64px}
 .logo{display:flex;align-items:center;gap:12px;font-weight:800;font-size:20px;letter-spacing:.2px;color:#fff;text-decoration:none}
 .logo img{height:26px;width:auto;display:block}
 
-/* Botones: cobre, como el logo */
+/* Botones: cian, como el logo */
 .btn{display:inline-block;border-radius:8px;padding:9px 14px;font-weight:700;font-size:14px;text-decoration:none;white-space:nowrap;border:0}
-.btn-ml{background:linear-gradient(120deg,#F4AE79 0%,#E9894A 55%,#CE6831 100%);color:var(--negro)}
+.btn-ml{background:linear-gradient(120deg,#7FE3EC 0%,#2DD4DE 55%,#1FB5C2 100%);color:var(--marino)}
 .btn-ml:hover{filter:brightness(1.07)}
 
 /* Portada */
-.hero{position:relative;overflow:hidden;background:var(--negro);color:#fff;padding:52px 0 44px}
+.hero{position:relative;overflow:hidden;background:var(--marino);color:#fff;padding:52px 0 44px}
 .hero::before{content:"";position:absolute;right:-160px;top:-200px;width:620px;height:620px;border-radius:50%;
-  background:radial-gradient(circle,rgba(233,137,74,.30) 0%,rgba(153,62,25,.10) 45%,transparent 70%);pointer-events:none}
+  background:radial-gradient(circle,rgba(45,212,222,.30) 0%,rgba(15,15,67,.10) 45%,transparent 70%);pointer-events:none}
 .hero .wrap{position:relative}
 .hero h1{margin:0 0 10px;font-size:clamp(28px,4.2vw,44px);line-height:1.1;letter-spacing:-.5px}
 .acento{background:var(--degrade);-webkit-background-clip:text;background-clip:text;color:transparent}
-.hero p{margin:0 0 20px;max-width:680px;color:#d8d2cc;font-size:17px}
+.hero p{margin:0 0 20px;max-width:680px;color:#C9CCE3;font-size:17px}
 .sellos{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
-.sellos li{border:1px solid rgba(244,174,121,.35);background:rgba(233,137,74,.08);color:#f3e6dc;border-radius:999px;padding:6px 12px;font-size:14px}
-.sellos strong{color:var(--cobre-claro)}
+.sellos li{border:1px solid rgba(127,227,236,.35);background:rgba(45,212,222,.08);color:#E6F8FA;border-radius:999px;padding:6px 12px;font-size:14px}
+.sellos strong{color:var(--cian-claro)}
 
 /* Buscador y filtros */
 .filtros{position:sticky;top:64px;background:var(--fondo);padding:18px 0 10px;z-index:4}
 #buscar{width:100%;font-size:17px;padding:13px 15px;border:1px solid var(--borde);border-radius:10px;background:#fff;color:var(--txt)}
-#buscar:focus{outline:2px solid var(--cobre);border-color:transparent}
+#buscar:focus{outline:2px solid var(--cian);border-color:transparent}
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
 .chip{border:1px solid var(--borde);background:#fff;color:var(--txt);border-radius:999px;padding:6px 13px;font-size:14px;cursor:pointer}
-.chip:hover{border-color:var(--cobre)}
-.chip[aria-selected=true]{background:var(--negro);color:var(--cobre-claro);border-color:var(--negro)}
+.chip:hover{border-color:var(--cian)}
+.chip[aria-selected=true]{background:var(--marino);color:var(--cian-claro);border-color:var(--marino)}
 .cuenta{color:var(--gris);font-size:14px;margin:4px 0 12px}
 
 /* Tarjetas */
 .grilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;padding-bottom:30px}
 .card{background:#fff;border:1px solid var(--borde);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:box-shadow .15s,border-color .15s}
-.card:hover{border-color:rgba(233,137,74,.6);box-shadow:0 8px 24px rgba(153,62,25,.12)}
+.card:hover{border-color:rgba(45,212,222,.6);box-shadow:0 8px 24px rgba(15,15,67,.12)}
 .card img{width:100%;aspect-ratio:1;object-fit:contain;background:#fff;padding:10px}
 .card-body{padding:10px 13px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .card h3{font-size:14px;font-weight:500;margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.precio{font-size:22px;font-weight:700;color:var(--negro)}
+.precio{font-size:22px;font-weight:700;color:var(--marino)}
 .antes{color:var(--gris);text-decoration:line-through;font-size:13px;margin-right:6px;font-weight:400}
 .tags{display:flex;gap:6px;flex-wrap:wrap}
 .tag{font-size:12px;color:#00a650;font-weight:600}
@@ -58,13 +58,13 @@ a{color:var(--cobre-oscuro)}
 .vacio{text-align:center;padding:30px 0;color:var(--gris)}
 
 /* Cómo comprar y pie */
-.como{background:var(--negro-2);color:#e9e2db;padding:34px 0}
+.como{background:var(--marino-2);color:#E4E5F2;padding:34px 0}
 .como h2{margin-top:0;color:#fff}
 .como ol{padding-left:20px}
-.como li::marker{color:var(--cobre);font-weight:700}
-.como em{color:var(--cobre-claro);font-style:normal;font-weight:600}
-.como .nota{color:#a69d95;font-size:14px}
-.pie{background:var(--negro);padding:18px 0;color:#8f867e;font-size:13px;border-top:1px solid #2a2622}
+.como li::marker{color:var(--cian);font-weight:700}
+.como em{color:var(--cian-claro);font-style:normal;font-weight:600}
+.como .nota{color:#9A9DC0;font-size:14px}
+.pie{background:var(--marino);padding:18px 0;color:#8689AE;font-size:13px;border-top:1px solid #22225A}
 .pie .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 
 @media (max-width:560px){
@@ -87,47 +87,47 @@ a{color:var(--cobre-oscuro)}
 .politica{max-width:760px;padding:32px 16px 48px}
 .politica h2{margin-top:24px;font-size:18px}
 .politica li{margin:4px 0}
-.pie a{color:#c9c0b8}
+.pie a{color:#C2C5DE}
 
 /* ===== Rediseño B2B ===== */
 html{scroll-behavior:smooth}
 section[id]{scroll-margin-top:64px}
 .menu{display:flex;gap:22px;margin-left:auto;margin-right:8px}
-.menu a{color:#d8d2cc;text-decoration:none;font-size:15px;font-weight:600}
-.menu a:hover{color:var(--cobre-claro)}
-.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;font-weight:700;color:var(--cobre-claro);margin:0 0 12px}
-.kicker.oscuro{color:var(--cobre-oscuro)}
+.menu a{color:#C9CCE3;text-decoration:none;font-size:15px;font-weight:600}
+.menu a:hover{color:var(--cian-claro)}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:12px;font-weight:700;color:var(--cian-claro);margin:0 0 12px}
+.kicker.oscuro{color:var(--cian-oscuro)}
 .hero-b2b{padding:84px 0 72px}
 .hero-b2b h1{font-size:clamp(32px,5vw,58px);max-width:900px;letter-spacing:-1px}
 .hero-b2b p{font-size:18px;max-width:720px}
-.hero .en{font-size:15px;color:#a69d95;font-style:italic;margin-top:-6px}
+.hero .en{font-size:15px;color:#9A9DC0;font-style:italic;margin-top:-6px}
 .ctas{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
-.btn-borde{border:1px solid rgba(244,174,121,.55);color:var(--cobre-claro);background:transparent}
-.btn-borde:hover{background:rgba(233,137,74,.1)}
-.cifras{background:var(--negro-2);border-top:1px solid #2a2622;border-bottom:1px solid #2a2622}
+.btn-borde{border:1px solid rgba(127,227,236,.55);color:var(--cian-claro);background:transparent}
+.btn-borde:hover{background:rgba(45,212,222,.1)}
+.cifras{background:var(--marino-2);border-top:1px solid #22225A;border-bottom:1px solid #22225A}
 .cifras-in{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding:30px 18px}
 .cifras-in>div{display:flex;flex-direction:column;gap:2px}
 .cifras strong{font-size:28px;background:var(--degrade);-webkit-background-clip:text;background-clip:text;color:transparent}
-.cifras span{color:#a69d95;font-size:14px}
+.cifras span{color:#9A9DC0;font-size:14px}
 .bloque{padding:72px 0}
 .bloque h2,.tienda h2{font-size:clamp(24px,3vw,34px);margin:0 0 28px;letter-spacing:-.4px;max-width:760px;line-height:1.15}
-.bloque-oscuro{background:var(--negro);color:#e9e2db}
+.bloque-oscuro{background:var(--marino);color:#E4E5F2}
 .bloque-oscuro h2{color:#fff}
 .servicios{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-.servicios article{background:#fff;border:1px solid var(--borde);border-radius:14px;padding:22px 22px 18px;border-top:3px solid var(--cobre)}
+.servicios article{background:#fff;border:1px solid var(--borde);border-radius:14px;padding:22px 22px 18px;border-top:3px solid var(--cian)}
 .servicios h3{margin:0 0 8px;font-size:18px}
 .servicios p{margin:0;color:var(--gris)}
 .pasos{list-style:none;counter-reset:p;padding:0;margin:0;display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
-.pasos li{counter-increment:p;border-top:1px solid #3a342e;padding-top:16px;display:flex;flex-direction:column;gap:6px}
-.pasos li::before{content:"0" counter(p);font-weight:800;font-size:14px;color:var(--cobre)}
+.pasos li{counter-increment:p;border-top:1px solid #2A2A66;padding-top:16px;display:flex;flex-direction:column;gap:6px}
+.pasos li::before{content:"0" counter(p);font-weight:800;font-size:14px;color:var(--cian)}
 .pasos strong{font-size:20px;color:#fff}
-.pasos span{color:#b9b0a8}
+.pasos span{color:#B4B7D4}
 .nosotros{display:grid;grid-template-columns:1fr 1.1fr;gap:48px;align-items:start}
 .nosotros p{font-size:17px}
-.trayecto{list-style:none;margin:0;padding:0 0 0 22px;border-left:2px solid var(--cobre-claro)}
+.trayecto{list-style:none;margin:0;padding:0 0 0 22px;border-left:2px solid var(--cian-claro)}
 .trayecto li{position:relative;padding:0 0 26px}
 .trayecto li::before{content:"";position:absolute;left:-30px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--degrade)}
-.trayecto .anio{font-size:13px;font-weight:700;color:var(--cobre-oscuro)}
+.trayecto .anio{font-size:13px;font-weight:700;color:var(--cian-oscuro)}
 .trayecto h3{margin:2px 0 6px;font-size:18px}
 .trayecto p{margin:0;color:var(--gris);font-size:15px}
 .tienda{padding:72px 0 20px;border-top:1px solid var(--borde)}
@@ -136,9 +136,9 @@ section[id]{scroll-margin-top:64px}
 .contacto{text-align:center}
 .contacto h2,.contacto p{margin-left:auto;margin-right:auto}
 .contacto p{max-width:620px}
-.contacto .en{color:#a69d95;font-style:italic}
-.contacto .nota{color:#8f867e;font-size:14px;margin-top:22px}
-.contacto .nota a{color:var(--cobre-claro)}
+.contacto .en{color:#9A9DC0;font-style:italic}
+.contacto .nota{color:#8689AE;font-size:14px;margin-top:22px}
+.contacto .nota a{color:var(--cian-claro)}
 @media (max-width:900px){
   .menu{display:none}
   .cifras-in{grid-template-columns:repeat(3,1fr)}
@@ -152,6 +152,6 @@ section[id]{scroll-margin-top:64px}
   .hero-b2b{padding:56px 0 48px}
 }
 .mas{text-align:center;margin:0 0 24px}
-.btn-borde-claro{background:#fff;border:1px solid var(--cobre);color:var(--cobre-oscuro);cursor:pointer;font-size:15px;padding:11px 22px}
-.btn-borde-claro:hover{background:#fff4ec}
+.btn-borde-claro{background:#fff;border:1px solid var(--cian);color:var(--cian-oscuro);cursor:pointer;font-size:15px;padding:11px 22px}
+.btn-borde-claro:hover{background:#F0FBFC}
 .ctas .btn-grande{margin:0}

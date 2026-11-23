@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 23.082" role="img" aria-label="RL">
 <defs>
 <linearGradient id="rl-g" x1="0" y1="0" x2="62" y2="23.082" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#F4AE79"/><stop offset=".5" stop-color="#E9894A"/><stop offset="1" stop-color="#993E19"/>
+<stop offset="0" stop-color="#7FE3EC"/><stop offset=".5" stop-color="#2DD4DE"/><stop offset="1" stop-color="#1FB5C2"/>
 </linearGradient>
 <mask id="rl-m"><g transform="scale(0.016547)"><g transform="translate(0.000000,1395.000000) scale(0.100000,-0.100000)" fill-rule="evenodd"><path fill="#fff" d="M5308 13945 c-2 -2 -1162 -4 -2578 -6 -2530 -2 -2576 -2 -2615 -22
 -22 -10 -57 -37 -77 -59 l-38 -41 0 -6821 0 -6821 52 -58 c28 -32 61 -62 72
