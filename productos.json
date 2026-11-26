@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "productos": [
     {
       "id": "MLA4183258980",
@@ -47,10 +47,10 @@
     },
     {
       "id": "MLA3196236690",
-      "titulo": "Juego De Hongos Palanca Gris Para Joystick Xbox 360 Gris",
+      "titulo": "Juego De Hongos Palanca Gris Para Joystick Xbox 360",
       "precio": 3499,
       "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3196236690-juego-de-hongos-palanca-gris-para-joystick-xbox-360-gris-_JM",
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3196236690-juego-de-hongos-palanca-gris-para-joystick-xbox-360-_JM",
       "foto": "https://http2.mlstatic.com/D_647175-MLA110473810519_042026-O.webp",
       "grupo": "Consolas",
       "full": true,
@@ -58,10 +58,10 @@
     },
     {
       "id": "MLA1750557911",
-      "titulo": "Juego De Hongos Palanca Negro Para Joystick Xbox 360 Negro",
+      "titulo": "Juego De Hongos Palanca Negro Para Joystick Xbox 360",
       "precio": 3499,
       "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1750557911-juego-de-hongos-palanca-negro-para-joystick-xbox-360-negro-_JM",
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1750557911-juego-de-hongos-palanca-negro-para-joystick-xbox-360-_JM",
       "foto": "https://http2.mlstatic.com/D_719189-MLA110474911217_042026-O.webp",
       "grupo": "Consolas",
       "full": true,
@@ -81,7 +81,7 @@
     {
       "id": "MLA2229370921",
       "titulo": "Juego De Hongos Palanca Para Joystick Xbox One Negro",
-      "precio": 2999,
+      "precio": 3239,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2229370921-juego-de-hongos-palanca-para-joystick-xbox-one-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_713316-MLA120067221695_102026-O.jpg",
@@ -530,17 +530,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA1677784517",
-      "titulo": "Tornillo Parche Tarugo Cubierta 50 Un De 1mm A 5mm Moto Auto",
-      "precio": 31349,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-1677784517-tornillo-parche-tarugo-cubierta-50-un-de-1mm-a-5mm-moto-auto-_JM",
-      "foto": "https://http2.mlstatic.com/D_748011-MLA107321376997_022026-O.jpg",
-      "grupo": "Herramientas e insumos",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA4194859290",
       "titulo": "Conector Fpc Display Para iPhone 11 Pro Max Repuesto",
       "precio": 3059,
@@ -585,6 +574,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA4195044908",
+      "titulo": "Conector Fpc Display Para iPhone 12 Pro Max Repuesto",
+      "precio": 3059,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4195044908-conector-fpc-display-para-iphone-12-pro-max-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_838355-MLA121456078843_112026-O.webp",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA4178496710",
       "titulo": "Conector Fpc Display Para iPhone 12 Pro Repuesto",
       "precio": 3464,
@@ -601,7 +601,7 @@
       "precio": 3464,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2275026281-conector-fpc-display-para-iphone-12-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_977517-MLA119409050076_112026-O.jpg",
+      "foto": "https://http2.mlstatic.com/D_797059-MLA120681669260_112026-O.jpg",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": false
@@ -646,6 +646,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4194858724-conector-fpc-display-para-iphone-14-pro-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_779515-MLA121456257357_112026-O.jpg",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4194846450",
+      "titulo": "Conector Fpc Display Para iPhone 14 Repuesto",
+      "precio": 3183,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4194846450-conector-fpc-display-para-iphone-14-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_620475-MLA121455635159_112026-O.jpg",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": false
@@ -811,17 +822,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3967134926-flex-power-volumen-para-iphone-11-pro-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_960871-MLA117375243228_102026-O.webp",
-      "grupo": "iPhone",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3976160810",
-      "titulo": "Flex Power Volumen Para iPhone 11 Repuesto",
-      "precio": 5792,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3976160810-flex-power-volumen-para-iphone-11-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_742962-MLA116495818074_092026-O.jpg",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": false
@@ -1135,12 +1135,56 @@
       "envio_gratis": true
     },
     {
+      "id": "MLA1708209001",
+      "titulo": "Modulo Para iPhone 11 Pro Incell Hx Hd Ic Negro",
+      "precio": 40009,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1708209001-modulo-para-iphone-11-pro-incell-hx-hd-ic-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_795780-MLA108102628074_032026-O.jpg",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": true
+    },
+    {
       "id": "MLA3065787394",
       "titulo": "Modulo Para iPhone 11 Pro Max Incell Hx Ic Negro",
       "precio": 42999,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3065787394-modulo-para-iphone-11-pro-max-incell-hx-ic-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_943839-MLA108101469684_032026-O.jpg",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": true
+    },
+    {
+      "id": "MLA2799703916",
+      "titulo": "Modulo Para iPhone 12 Display Calidad Incell Ic Negro",
+      "precio": 32999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2799703916-modulo-para-iphone-12-display-calidad-incell-ic-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_690196-MLA104904919010_012026-O.webp",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA3065814332",
+      "titulo": "Modulo Para iPhone 13 Pro Incell Kd Hd Ic Negro",
+      "precio": 55547,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3065814332-modulo-para-iphone-13-pro-incell-kd-hd-ic-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_642717-MLA108101382232_032026-O.webp",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": true
+    },
+    {
+      "id": "MLA3065844098",
+      "titulo": "Modulo Para iPhone 14 Incell Kd Hd Ic Negro",
+      "precio": 48047,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3065844098-modulo-para-iphone-14-incell-kd-hd-ic-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_991902-MLA108880772917_032026-O.webp",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": true
@@ -1174,6 +1218,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3564248346-modulo-para-iphone-14-pro-max-oled-gx-rv-hard-ic-negro-_JM",
       "foto": "https://http2.mlstatic.com/D_780316-MLA114179410961_072026-O.jpg",
+      "grupo": "iPhone",
+      "full": true,
+      "envio_gratis": true
+    },
+    {
+      "id": "MLA3065845172",
+      "titulo": "Modulo Para iPhone 14 Pro Max Incell Kd Hd Ic Negro",
+      "precio": 60200,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3065845172-modulo-para-iphone-14-pro-max-incell-kd-hd-ic-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_631036-MLA108881220133_032026-O.webp",
       "grupo": "iPhone",
       "full": true,
       "envio_gratis": true
@@ -1247,7 +1302,7 @@
     {
       "id": "MLA3854546164",
       "titulo": "Placa De Carga Para iPhone 12 Pro A2341 Repuesto Pin",
-      "precio": 11217,
+      "precio": 10320,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3854546164-placa-de-carga-para-iphone-12-pro-a2341-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_619753-MLA115264843640_082026-O.webp",
@@ -1357,7 +1412,7 @@
     {
       "id": "MLA3854545980",
       "titulo": "Placa De Carga Para iPhone 8 Plus A1864 Repuesto Pin",
-      "precio": 7219,
+      "precio": 6000,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3854545980-placa-de-carga-para-iphone-8-plus-a1864-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_889303-MLA116670330487_082026-O.jpg",
@@ -1460,6 +1515,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2294442579-conector-fpc-display-e6i-para-motorola-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_796407-MLA119924792756_112026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA2294284603",
+      "titulo": "Conector Fpc Display E6s Para Motorola Repuesto",
+      "precio": 2670,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-2294284603-conector-fpc-display-e6s-para-motorola-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_718248-MLA121667801913_112026-O.webp",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -1861,6 +1927,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA1802224371",
+      "titulo": "Modulo Edge 40 Edge 40 Neo Calidad Incell Para Moto Negro",
+      "precio": 54053,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1802224371-modulo-edge-40-edge-40-neo-calidad-incell-para-moto-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_790126-MLA112194506623_052026-O.webp",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": true
+    },
+    {
       "id": "MLA1802276015",
       "titulo": "Modulo Edge 50 Pro Incell Xt2403 Edge 50 Pantalla Para Moto Negro",
       "precio": 55999,
@@ -1892,6 +1969,28 @@
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
+    },
+    {
+      "id": "MLA1504552315",
+      "titulo": "Modulo G42 Pantalla Incell Para Moto Motorola Xt2233 Negro",
+      "precio": 31699,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1504552315-modulo-g42-pantalla-incell-para-moto-motorola-xt2233-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_633079-MLA121451773891_112026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA3576652120",
+      "titulo": "Modulo G52 G72 G82 G71s Edge30 Incell Negro",
+      "precio": 33001,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3576652120-modulo-g52-g72-g82-g71s-edge30-incell-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_693167-MLA114287057687_072026-O.jpg",
+      "grupo": "Motorola",
+      "full": true,
+      "envio_gratis": true
     },
     {
       "id": "MLA3576639392",
@@ -1960,20 +2059,9 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3449583996",
-      "titulo": "Placa De Carga G22 Xt2231 Para Moto Repuesto Pin",
-      "precio": 4772,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3449583996-placa-de-carga-g22-xt2231-para-moto-repuesto-pin-_JM",
-      "foto": "https://http2.mlstatic.com/D_642216-MLA113050931109_062026-O.webp",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA3770583734",
       "titulo": "Placa De Carga G32 Para Motorola Xt2235 Repuesto Pin",
-      "precio": 6160,
+      "precio": 5200,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3770583734-placa-de-carga-g32-para-motorola-xt2235-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_770717-MLA115961750299_082026-O.jpg",
@@ -1988,17 +2076,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786098498-placa-de-carga-g52-para-motorola-xt2221-1-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_721826-MLA116138412607_082026-O.webp",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3785103800",
-      "titulo": "Placa De Carga G7 Play Para Motorola Xt1952 Repuesto Pin",
-      "precio": 3399,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3785103800-placa-de-carga-g7-play-para-motorola-xt1952-repuesto-pin-_JM",
-      "foto": "https://http2.mlstatic.com/D_631948-MLA119468409653_102026-O.jpg",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -2021,17 +2098,6 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786098524-placa-de-carga-g8-play-para-motorola-xt2015-2-repuesto-pin-_JM",
       "foto": "https://http2.mlstatic.com/D_952071-MLA116138855675_082026-O.jpg",
-      "grupo": "Motorola",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
-      "id": "MLA3786532832",
-      "titulo": "Placa De Carga G9 Plus Para Motorola Xt2087-2 Repuesto Pin",
-      "precio": 5077,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3786532832-placa-de-carga-g9-plus-para-motorola-xt2087-2-repuesto-pin-_JM",
-      "foto": "https://http2.mlstatic.com/D_680537-MLA117374608754_102026-O.jpg",
       "grupo": "Motorola",
       "full": true,
       "envio_gratis": false
@@ -2156,6 +2222,17 @@
       "grupo": "Otros",
       "full": true,
       "envio_gratis": false
+    },
+    {
+      "id": "MLA3367475388",
+      "titulo": "Modulo Para Nubia Neo 2 5g Z2352n Pantalla Calidad Original Negro",
+      "precio": 44999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-3367475388-modulo-para-nubia-neo-2-5g-z2352n-pantalla-calidad-original-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_735929-MLA111184615976_052026-O.jpg",
+      "grupo": "Otros",
+      "full": true,
+      "envio_gratis": true
     },
     {
       "id": "MLA4113346012",
@@ -2307,6 +2384,17 @@
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2294282727-conector-fpc-display-a20-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_799726-MLA121667979753_112026-O.jpg",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
+      "id": "MLA4194872256",
+      "titulo": "Conector Fpc Display A21s Para Samsung Repuesto",
+      "precio": 2944,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4194872256-conector-fpc-display-a21s-para-samsung-repuesto-_JM",
+      "foto": "https://http2.mlstatic.com/D_900768-MLA119727802144_112026-O.webp",
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
@@ -2554,17 +2642,6 @@
       "envio_gratis": false
     },
     {
-      "id": "MLA3854319382",
-      "titulo": "Flex Main A32 4g Para Samsung Repuesto",
-      "precio": 3173,
-      "precio_antes": null,
-      "url": "https://articulo.mercadolibre.com.ar/MLA-3854319382-flex-main-a32-4g-para-samsung-repuesto-_JM",
-      "foto": "https://http2.mlstatic.com/D_616309-MLA118971079933_102026-O.webp",
-      "grupo": "Samsung",
-      "full": true,
-      "envio_gratis": false
-    },
-    {
       "id": "MLA2032608015",
       "titulo": "Flex Main S20 Fe 5g Para Samsung Repuesto",
       "precio": 3816,
@@ -2622,7 +2699,7 @@
     {
       "id": "MLA4013411662",
       "titulo": "Flex Power Volumen A03 Core Para Samsung Repuesto",
-      "precio": 3340,
+      "precio": 3073,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-4013411662-flex-power-volumen-a03-core-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_663414-MLA117374502708_102026-O.webp",
@@ -2776,7 +2853,7 @@
     {
       "id": "MLA2167987169",
       "titulo": "Flex Power Volumen A23 Para Samsung Repuesto",
-      "precio": 14999,
+      "precio": 13799,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-2167987169-flex-power-volumen-a23-para-samsung-repuesto-_JM",
       "foto": "https://http2.mlstatic.com/D_756187-MLA117423791478_102026-O.jpg",
@@ -3005,6 +3082,17 @@
       "envio_gratis": false
     },
     {
+      "id": "MLA1504226807",
+      "titulo": "Modulo A31 Para Samsung Incell Pantalla Con Marco Negro",
+      "precio": 32999,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-1504226807-modulo-a31-para-samsung-incell-pantalla-con-marco-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_989027-MLA91955864041_092025-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": false
+    },
+    {
       "id": "MLA1730858809",
       "titulo": "Módulo A32 4g A325 Pantalla Para Samsung Incell Con Marco - Negro",
       "precio": 32450,
@@ -3014,6 +3102,17 @@
       "grupo": "Samsung",
       "full": true,
       "envio_gratis": false
+    },
+    {
+      "id": "MLA4194870136",
+      "titulo": "Modulo A34 A346 Pantalla Incell Para Samsung Negro",
+      "precio": 38638,
+      "precio_antes": null,
+      "url": "https://articulo.mercadolibre.com.ar/MLA-4194870136-modulo-a34-a346-pantalla-incell-para-samsung-negro-_JM",
+      "foto": "https://http2.mlstatic.com/D_895692-MLA121454783007_112026-O.webp",
+      "grupo": "Samsung",
+      "full": true,
+      "envio_gratis": true
     },
     {
       "id": "MLA2180172837",
@@ -3161,7 +3260,7 @@
     {
       "id": "MLA3786570772",
       "titulo": "Placa De Carga A31 Para Samsung A315 Repuesto Pin Plaqueta",
-      "precio": 6667,
+      "precio": 6103,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786570772-placa-de-carga-a31-para-samsung-a315-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_607001-MLA116144503335_082026-O.webp",
@@ -3183,7 +3282,7 @@
     {
       "id": "MLA3786570828",
       "titulo": "Placa De Carga A70 Para Samsung A705 Repuesto Pin Plaqueta",
-      "precio": 10393,
+      "precio": 10349,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786570828-placa-de-carga-a70-para-samsung-a705-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_875359-MLA114774996266_082026-O.jpg",
@@ -3194,7 +3293,7 @@
     {
       "id": "MLA3786532656",
       "titulo": "Placa De Carga A71 Para Samsung A715 Repuesto Pin Plaqueta",
-      "precio": 12808,
+      "precio": 10884,
       "precio_antes": null,
       "url": "https://articulo.mercadolibre.com.ar/MLA-3786532656-placa-de-carga-a71-para-samsung-a715-repuesto-pin-plaqueta-_JM",
       "foto": "https://http2.mlstatic.com/D_741248-MLA114775025922_082026-O.webp",
